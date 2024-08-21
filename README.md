@@ -6,4 +6,4 @@ Meu nome é Luiz Eduardo;
 - Estou me desenvolvendo na linguagem JavaScript;
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos;
 
-![](https://tenor.com/pt-BR/view/night-goodnight-im-so-sleepy-falling-asleep-passing-out-gif-10709761)
+![](https://media1.tenor.com/m/LrlLukrVmJQAAAAd/wow-oh-my.gif)
